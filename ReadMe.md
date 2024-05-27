@@ -22,4 +22,6 @@
 
 The proxy will start listening to the specified IP address and port, displaying incoming traffic in the terminal. If the IP address and port entered cannot be proxied, an error will be returned to the terminal.
 
+---
+
 Rouge is intended for educational purposes **only**. The author is not liable for any misuse of this software. Use it responsibly and ensure compliance with all applicable laws and regulations.
