@@ -22,4 +22,4 @@
 
 The proxy will start listening on in the terminal, you will see any incoming trafic printed to the command line.
 
-Rouge is intended for educational purposes only. The author is not liable for any misuse of this software. Use it responsibly and ensure compliance with all applicable laws and regulations.
+Rouge is intended for educational purposes **only**. The author is not liable for any misuse of this software. Use it responsibly and ensure compliance with all applicable laws and regulations.
